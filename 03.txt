@@ -1,0 +1,5 @@
+Amex	161
+Cash	165
+Discover	175
+MasterCard	167
+Visa	191
